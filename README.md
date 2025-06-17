@@ -2,4 +2,5 @@
 
 ## Запуск разработки
 
+npm run preview
 npm run dev
